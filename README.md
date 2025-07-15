@@ -24,7 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hitesh-Bhor28&show_icons=true&theme=radical" alt="Hitesh's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Bhor28&theme=radical" alt="GitHub Streak" />
 </p>
+
 ---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Bhor28&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
