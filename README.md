@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hitesh Bhor</h1>
-<h3 align="center">MERN Stack Developer | Cloud Enthusiast | Cybersecurity Learner</h3>
+<h1>Hi 👋, I'm Hitesh Bhor</h1>
+<h3>MERN Stack Developer | Cloud Enthusiast | Cybersecurity Learner</h3>
 
 ---
 
